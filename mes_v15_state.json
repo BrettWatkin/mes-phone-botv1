@@ -1,10 +1,10 @@
 {
-  "balance": 9988.75,
+  "balance": 9965.0,
   "daily_date": "2026-11-23",
-  "daily_pnl": -11.25,
-  "last_candle_ct": "2026-11-23T14:05:00-06:00",
+  "daily_pnl": -35.0,
+  "last_candle_ct": "2026-11-23T14:55:00-06:00",
   "mode": "SIMULATED_NO_BROKER",
   "pending_direction": null,
   "position": null,
-  "trade_count": 3
+  "trade_count": 4
 }
